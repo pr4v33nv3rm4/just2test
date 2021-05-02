@@ -19,7 +19,7 @@ namespace Calculator
         public double Add(){
             return (varA+varB);
         }
-        //subtart 
+        //subtract 
         public double Subtract()
         {
             return (varA-varB);
